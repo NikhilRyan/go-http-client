@@ -1,5 +1,5 @@
 
-# Your Library
+# Go HTTP Client
 
 A Golang library for making HTTP requests with support for middleware, logging, retries, and more.
 
